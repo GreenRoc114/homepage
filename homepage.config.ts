@@ -6,7 +6,7 @@ const author = {
     name: 'GreenRoc',
     avatar: 'https://cd.ahhf45.top/img/IMG_0555.jpeg',
     email: 'mollymathieson4@gmail.com',
-    homepage: 'https://v4.ahhf45.top/',
+    homepage: 'https://ahhf45.top/',
 }
 
 const homepageConfig = {
