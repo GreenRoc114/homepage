@@ -18,10 +18,13 @@ const appConfig = useAppConfig()
                 {{ appConfig.subtitle }}
             </p>
             <div>
-                <ZButton icon="ph:files-duotone" to="https://blog.zhilu.cyou/" primary>
-                    博客
+                <ZButton icon="ph:files-duotone" to="https://v3.ahhf45.top/" primary>
+                    博客v3
                 </ZButton>
-                <ZButton icon="ph:github-logo-duotone" to="https://github.com/L33Z22L11">
+                <ZButton icon="ph:files-duotone" to="https://v4.ahhf45.top/" primary>
+                    博客v4
+                </ZButton>
+                <ZButton icon="ph:github-logo-duotone" to="https://github.com/GreenRoc114">
                     GitHub
                 </ZButton>
             </div>
@@ -29,9 +32,9 @@ const appConfig = useAppConfig()
 
         <ZField label="介绍">
             <p>
-                <ZLink to="https://github.com/xiyou-linuxer">
-                    西邮 Linux 兴趣小组
-                </ZLink>成员，Windows 11 和 Arch
+                <ZLink to="http://www.ahhf45.com">
+                    安徽合肥第45中学
+                </ZLink>初三学生，Windows 11 和 Arch
                 Linux 用户。
             </p>
         </ZField>
