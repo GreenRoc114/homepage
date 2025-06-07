@@ -4,7 +4,7 @@ import type { NitroConfig } from 'nitropack'
 
 const author = {
     name: 'GreenRoc',
-    avatar: 'https://://cd.ahhf45.top/img/IMG_0555.jpeg',
+    avatar: 'https://cd.ahhf45.top/img/IMG_0555.jpeg',
     email: 'mollymathieson4@gmail.com',
     homepage: 'https://ahhf45.top/',
 }
