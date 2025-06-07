@@ -17,7 +17,7 @@ const homepageConfig = {
     language: 'zh-CN',
     timezone: 'Asia/Shanghai',
     favicon: 'https://cd.ahhf45.top/img/IMG_0555.jpeg',
-    url: 'https://ahhf45.top/',
+    url: 'https://v4.ahhf45.top/',
     blogAtom: 'https://v4.ahhf45.top/atom.xml',
 }
 
