@@ -32,7 +32,7 @@ const appConfig = useAppConfig()
 
         <ZField label="介绍">
             <p>
-                <ZLink to="http://www.ahhf45.com">
+                <ZLink to="http://www.ahhf45.com" icon="icon-park-outline:school">
                     安徽合肥第45中学
                 </ZLink>初三学生，Windows 11 和 Arch
                 Linux 用户。擅长Ai、Fw、Fl、Br、Ae、Pr、Id、PS等软件的安装与卸载，精通CSS、JavaScript、PHP、C、C＋＋、java、Ruby、Perl、Lisp、python、Objective-C、ActionScript等单词的拼写，熟悉windows、Linux、Mac、Android、IOS等系统的开关机。
