@@ -10,7 +10,7 @@ const articles = computed(() => data.value.slice(0, 11))
 <template>
     <ZTitle icon="👀">
         <span class="badge-text">来自博客
-            <ZRawLink to="https://blog.zhilu.cyou"><mark>GreenRoc的博客</mark></ZRawLink>
+            <ZRawLink to="https://v4.ahhf45.top"><mark>GreenRoc的博客</mark></ZRawLink>
             的文章
         </span>
     </ZTitle>
@@ -25,15 +25,15 @@ const articles = computed(() => data.value.slice(0, 11))
         <ZArticle v-for="article in articles" :key="article.id" v-bind="article" />
     </div>
     <div class="article-more">
-        <ZRawLink to="https://blog.zhilu.cyou/">
+        <ZRawLink to="https://v4.ahhf45.top">
             <Icon name="ph:navigation-arrow-duotone" />
             <span>访问</span>
         </ZRawLink>
-        <ZRawLink to="https://blog.zhilu.cyou/link">
+        <ZRawLink to="https://v4.ahhf45.top">
             <Icon name="ph:link-duotone" />
             <span>友链</span>
         </ZRawLink>
-        <ZRawLink to="https://blog.zhilu.cyou/archive">
+        <ZRawLink to="https://v4.ahhf45.top">
             <Icon name="ph:archive-duotone" />
             <span>归档</span>
         </ZRawLink>
