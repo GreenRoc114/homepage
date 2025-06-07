@@ -42,9 +42,9 @@ const appConfig = useAppConfig()
         <ZField label="近期活动">
             <p>
                 2024年8月购买ahhf45.top域名并有了建站想法，在暑假得以实现
-                2025年3月第一次使用了<Zlink to="https://https://github.com/saicaca/fuwari">
+                2025年3月第一次使用了<ZLink to="https://https://github.com/saicaca/fuwari">
                     fuwari
-                </Zlink>构建了静态博客并发表了几篇文章，后因手抖删掉了仓库并忘了备份顺势换了个主题
+                </ZLink>构建了静态博客并发表了几篇文章，后因手抖删掉了仓库并忘了备份顺势换了个主题
             </p>
         </ZField>
 
