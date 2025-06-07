@@ -3,22 +3,24 @@
 import type { NitroConfig } from 'nitropack'
 
 const author = {
-    name: '纸鹿本鹿',
-    avatar: 'https://wsrv.nl/?url=github.com/L33Z22L11.png',
-    email: 'hi@zhilu.cyou',
-    homepage: 'https://www.zhilu.cyou/',
+    name: 'GreenRoc',
+    avatar: 'https://://cd.ahhf45.top/img/IMG_0555.jpeg',
+    email: 'mollymathieson4@gmail.com',
+    homepage: 'https://ahhf45.top/',
 }
 
 const homepageConfig = {
-    title: '纸鹿 (@L33Z22L11)',
-    subtitle: '纸鹿至麓不知路，支炉制露不止漉',
-    description: '纸鹿（也称作纸鹿本鹿、Zhilu、L33Z22L11）是一名开源爱好者，这是纸鹿的个人主页。他有一个博客「纸鹿摸鱼处」，记录了他在生活和技术学习中的点滴经历，充满启发与思考。他的个人主页和博客界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
+    title: 'GreenRoc114(@GreenRoc114)',
+    subtitle: 'Didn't know I was lost.',
+    description: '一个马上就中考的初三生，擅长Ai、Fw、Fl、Br、Ae、Pr、Id、PS等软件的安装与卸载，精通CSS、JavaScript、PHP、C、C＋＋、java、Ruby、Perl、Lisp、python、Objective-C、ActionScript等单词的拼写，熟悉windows、Linux、Mac、Android、IOS等系统的开关机。
+
+',
     author,
     language: 'zh-CN',
     timezone: 'Asia/Shanghai',
-    favicon: '/icon.png',
-    url: 'https://www.zhilu.cyou/',
-    blogAtom: 'https://blog.zhilu.cyou/atom.xml',
+    favicon: 'https://cd.ahhf45.top/img/IMG_0555.jpeg',
+    url: 'https://ahhf45.top/',
+    blogAtom: 'https://v4.ahhf45.top/atom.xml',
 }
 
 // https://nitro.build/config#routerules
