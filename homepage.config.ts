@@ -11,7 +11,7 @@ const author = {
 
 const homepageConfig = {
     title: 'GreenRoc114(@GreenRoc114)',
-    subtitle: 'Didnt know I was lost.',
+    subtitle: 'We Love Avicii.',
     description: '一个马上就中考的初三生，擅长Ai、Fw、Fl、Br、Ae、Pr、Id、PS等软件的安装与卸载，精通CSS、JavaScript、PHP、C、C＋＋、java、Ruby、Perl、Lisp、python、Objective-C、ActionScript等单词的拼写，熟悉windows、Linux、Mac、Android、IOS等系统的开关机',
     author,
     language: 'zh-CN',
