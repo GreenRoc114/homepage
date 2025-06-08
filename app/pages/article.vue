@@ -29,11 +29,11 @@ const articles = computed(() => data.value.slice(0, 11))
             <Icon name="ph:navigation-arrow-duotone" />
             <span>访问</span>
         </ZRawLink>
-        <ZRawLink to="https://v4.ahhf45.top">
+        <ZRawLink to="https://v4.ahhf45.top/link">
             <Icon name="ph:link-duotone" />
             <span>友链</span>
         </ZRawLink>
-        <ZRawLink to="https://v4.ahhf45.top">
+        <ZRawLink to="https://v4.ahhf45.top/archive">
             <Icon name="ph:archive-duotone" />
             <span>归档</span>
         </ZRawLink>
