@@ -17,7 +17,7 @@ export default defineAppConfig({
             title: '',
             items: [
                 { icon: 'ph:house-duotone', text: '主页', url: '/' },
-                { icon: "ph:pen-nib-duotone", text: "文章", url: "https://v4.ahhf45.top", external: true },
+                { icon: "ph:pen-nib-duotone", text: "文章", url: "https://v3.ahhf45.top", external: true },
                 // { icon: "ph:code-duotone", text: "项目", url: "/project" },
                 { icon: 'ph:globe-duotone', text: '站点', url: '/site' },
                 { icon: 'ph:files-duotone', text: '日志', url: '/log' },
